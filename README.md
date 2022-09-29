@@ -1,4 +1,4 @@
-# Paratica Recruitment Task
+# Invent Analytics Recruitment Task
 
 # Installation
 
